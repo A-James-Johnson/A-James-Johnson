@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm James Johnson! 👋</h1>
 <p align="center">
-  Aspiring Cloud & DevOps Engineer | Full-Stack Developer | AI Enthusiast  
+  Full-Stack Developer  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a pre-final year B.Tech IT student from **Sri Eshwar College of Engineering**, passionate about Cloud Infrastructure ☁️, Full Stack Development 💻, and AI-powered automation 🤖.  
-Currently building intelligent tools with **Terraform, AWS, React, Node.js, and OpenAI**.
+I'm a Final year B.Tech IT student from **Sri Eshwar College of Engineering**, passionate about Full Stack Development 💻, Cloud Infrastructure ☁️  
+
 
 ---
 
