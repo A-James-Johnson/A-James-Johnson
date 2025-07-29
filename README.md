@@ -47,20 +47,7 @@ I'm an aspiring **Full-Stack Developer with Cloud Fundamentals**, passionate abo
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-James-Johnson&theme=radical)
 
 ---
-## 📫 Let's Connect!
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="jamesjohnson.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
-
----
 
 _“Striving to blend MERN stack development, cloud engineering, and creativity into real-world impact..”_
 
